@@ -1,0 +1,2 @@
+export const GETCONTACTS = "GETCONTACTS"
+export const GETCONTACT = "GETCONTACT"
